@@ -1,5 +1,6 @@
 ---
-Date:21-09-2024                           EXP:1
+Date:21-09-2024            
+Exp 1: Mean and variance of a discrete distribution
 ---
 Name:Nikhil    
 reg_no:24900366
