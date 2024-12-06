@@ -34,9 +34,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Procedure :
 
 
-**1. Construct frequency distribution for the data        
-2. Find the  probability distribution from frequency distribution.             
-3. Calculate mean using**  
+**1. Construct frequency distribution for the data    **   
+
+**2. Find the  probability distribution from frequency distribution.   ** 
+
+**3. Calculate mean using**  
 
 
    ![image](https://user-images.githubusercontent.com/103921593/192940431-03b81777-c54d-4286-b4f4-82dfe7666b4c.png)
