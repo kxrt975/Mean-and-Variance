@@ -1,6 +1,6 @@
 ---
-**Date**: 21-09-2024  
-**Experiment**: 1  
+**Date: 21-09-2024  
+**Experiment: 1  
 ---
 
 ---
