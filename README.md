@@ -1,6 +1,6 @@
 
-#Date:21-09-2024            
-#Exp 1: Mean and variance of a discrete distribution
+# Date:21-09-2024            
+# Exp 1: Mean and variance of a discrete distribution
 
 ---
 Name:Nikhil    
