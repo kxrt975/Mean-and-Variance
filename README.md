@@ -3,8 +3,8 @@
 # Exp 1: Mean and variance of a discrete distribution
 
 ---
-Name:Nikhil    
-reg_no:24900366
+Name: R.karthik padmanaban   
+reg_no: 212224110029
 ---
 
 # Aim : 
@@ -56,6 +56,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 
 ```
+devoloped by:R.karthik padmanaban
+reg no: 212224110029
+
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
